@@ -1,0 +1,19 @@
+{
+    "slug": "customer-service-lab",
+    "title": {
+      "es": "Customer Service - Descubrimiento de rutas y cracking de contraseñas",
+      "en": "Customer Service - Route Discovery and Password Cracking"
+    },
+    "preview": "https://github.com/4GeeksAcademy/customer-service-capture-the-flag/blob/main/assets/preview.png?raw=true",
+    "translations": ["es", "en"],
+    "technologies": ["cybersecurity", "linux", "apache", "md5", "web"],
+    "difficulty": "intermediate",
+    "syntax": "bash",
+    "duration": 2,
+    "projectType": "capture-the-flag",
+    "description": {
+      "es": "Explora una aplicación web para detectar rutas ocultas y fallos de control de acceso. Descifra contraseñas MD5 y simula inicios de sesión para obtener información sensible.",
+      "en": "Explore a web application to detect hidden routes and broken access control. Crack MD5 passwords and simulate logins to retrieve sensitive information."
+    }
+  }
+  
