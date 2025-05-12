@@ -1,14 +1,15 @@
 {
-    "slug": "customer-service-lab",
+    "slug": "broken-access-control-and-password-cracking-lab",
     "title": {
-      "es": "Customer Service - Descubrimiento de rutas y cracking de contraseñas",
-      "en": "Customer Service - Route Discovery and Password Cracking"
+      "es": "Customer Service - Control de acceso roto y cracking de contraseñas",
+      "en": "Customer Service - Broken access control and Password Cracking"
     },
-    "preview": "https://github.com/4GeeksAcademy/customer-service-capture-the-flag/blob/main/assets/preview.png?raw=true",
-    "translations": ["es", "en"],
-    "technologies": ["cybersecurity", "linux", "apache", "md5", "web"],
+    "preview": "https://github.com/4GeeksAcademy/capture-flag-broken-access-control/blob/main/assets/preview.png?raw=true",
+    "solution": {
+    "us":"https://github.com/4GeeksAcademy/capture-flag-broken-access-control/blob/solution/SOLUTION.md",
+    "es": "https://github.com/4GeeksAcademy/capture-flag-broken-access-control/blob/solution/SOLUTION.es.md"},
+    "technologies": ["cybersecurity", "linux", "apache", "md5", "web","broken-access-control","read-team"],
     "difficulty": "intermediate",
-    "syntax": "bash",
     "duration": 2,
     "projectType": "capture-the-flag",
     "description": {
