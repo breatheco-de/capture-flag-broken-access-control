@@ -4,10 +4,10 @@
       "es": "Customer Service - Control de acceso roto y cracking de contraseñas",
       "en": "Customer Service - Broken access control and Password Cracking"
     },
-    "preview": "https://github.com/4GeeksAcademy/capture-flag-broken-access-control/blob/main/assets/preview.png?raw=true",
+    "preview": "https://github.com/breatheco-de/capture-flag-broken-access-control/blob/main/assets/preview.png?raw=true",
     "solution": {
-    "us":"https://github.com/4GeeksAcademy/capture-flag-broken-access-control/blob/solution/SOLUTION.md",
-    "es": "https://github.com/4GeeksAcademy/capture-flag-broken-access-control/blob/solution/SOLUTION.es.md"},
+    "us":"https://github.com/breatheco-de/capture-flag-broken-access-control/blob/solution/SOLUTION.md",
+    "es": "https://github.com/breatheco-de/capture-flag-broken-access-control/blob/solution/SOLUTION.es.md"},
     "technologies": ["cybersecurity", "linux", "apache", "md5", "web","broken-access-control","read-team"],
     "difficulty": "intermediate",
     "duration": 2,
