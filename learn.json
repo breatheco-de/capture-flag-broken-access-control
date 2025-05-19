@@ -15,6 +15,14 @@
     "description": {
       "es": "Explora una aplicación web para detectar rutas ocultas y fallos de control de acceso. Descifra contraseñas MD5 y simula inicios de sesión para obtener información sensible.",
       "en": "Explore a web application to detect hidden routes and broken access control. Crack MD5 passwords and simulate logins to retrieve sensitive information."
-    }
+    },
+    "delivery": {
+		"instructions": {
+			"us": "Paste the flag you found with format FLAG{hash}",
+			"es": "Agrega la bandera que encontraste con el formato FLAG{hash}"
+		},
+		"formats": ["flags"],
+		"quantity": 1
+	}
   }
   
